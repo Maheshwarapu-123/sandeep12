@@ -13,6 +13,8 @@ We used Python 3.9.9 and PyTorch 1.10.1 to train and test our models, but the co
 
 pip install -U openai-whisper
 
+pip install git+https://github.com/openai/whisper.git 
+
 PYTHON USAGE:
 
 import whisper
